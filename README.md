@@ -13,4 +13,4 @@ npm run start
 ```
 
 > [!NOTE]
-> Tras inicializar el servidor, este escuchará por defecto en el puerto 8080. La documentadión puede encontrarse en /api-docs una vez lanzado.
+> Tras inicializar el servidor, este escuchará por defecto en el puerto 3030. La documentadión puede encontrarse en /api-docs una vez lanzado.
